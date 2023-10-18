@@ -1,1 +1,3 @@
-# Data_Cleaning_Transformation
+# Data Cleaning and Transformation (MLSA Workshop)
+
+Data is messy in the real world, and it is very important to know the best practices in handling them. The event is focused on teaching participants on the techniques of how to handle missing values by implementing and discussing the pros and cons of each approach (Data Cleaning). It is also focused on teaching participants on how to handle numerical and categorical data encoding (Data Transformation) for good analysis and data science practise. At the end of the event, the participants will be introduced to various data cleaning and transformation techniques to implement and experiment in their next data science project.
